@@ -22,6 +22,7 @@
         <img class="img2" src="images/dice6.png">
       </div>
 
+      
     </div>
 <script src="index.js" charset="utf-8"></script>
 
