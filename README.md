@@ -29,7 +29,7 @@
   </body>
 
   <footer>
-    <h4><em>Instruction</em>Refresh the page to play the game</h4>
+    Instruction:Refresh the page to play the game
     @2021 Dice Game.
   </footer>
 </html>
