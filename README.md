@@ -25,10 +25,11 @@
       
     </div>
 <script src="index.js" charset="utf-8"></script>
-<h1><em>Instruction</em>Refresh the page to play the game</h1>
+
   </body>
 
   <footer>
+    <h1><em>Instruction</em>Refresh the page to play the game</h1>
     @2021 Dice Game.
   </footer>
 </html>
